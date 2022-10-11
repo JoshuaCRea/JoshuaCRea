@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @JoshuaCRea
-- 👀 I’m interested in bagels.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on pretty much anything creative.
-- 📫 How to reach me: josh.rea@gmail.com
+Hi, I'm Joshua. I'm a JavaScript/HTML/CSS developer and I know a bit of Python, too. I love the problem-solving that is inherent in writing code, and I'm excited to grow more knowledgeable as the years go on.
 
 <!---
 JoshuaCRea/JoshuaCRea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
